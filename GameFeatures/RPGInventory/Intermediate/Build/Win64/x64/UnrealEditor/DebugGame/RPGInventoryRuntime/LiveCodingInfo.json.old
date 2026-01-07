@@ -1,0 +1,25 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.RPGInventoryRuntime.cpp.obj": [
+			"RPGInvChestComp.gen.cpp.obj",
+			"RPGInvComp.gen.cpp.obj",
+			"RPGInvDrop.gen.cpp.obj",
+			"RPGInventoryRuntime.init.gen.cpp.obj",
+			"RPGInvGFA_Reg.gen.cpp.obj",
+			"RPGInvHooks.gen.cpp.obj",
+			"RPGInvPlayerComp.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"RPGInvDrop.cpp.obj",
+			"RPGInvChestComp.cpp.obj",
+			"RPGInvComp.cpp.obj",
+			"RPGInvPlayerComp.cpp.obj",
+			"RPGInvTypes.cpp.obj",
+			"RPGInventoryRuntimeModule.cpp.obj",
+			"RPGInvFeature.cpp.obj",
+			"RPGInvGFA_Reg.cpp.obj",
+			"RPGInvHooks.cpp.obj",
+			"RPGInvLog.cpp.obj"
+		]
+	}
+}

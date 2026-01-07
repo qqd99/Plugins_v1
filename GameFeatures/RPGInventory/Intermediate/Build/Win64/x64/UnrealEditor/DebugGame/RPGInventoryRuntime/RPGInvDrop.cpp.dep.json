@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\project\\p251210\\plugins\\gamefeatures\\rpginventory\\source\\rpginventoryruntime\\private\\actors\\rpginvdrop.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\project\\p251210\\intermediate\\build\\win64\\x64\\lyraeditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\project\\p251210\\plugins\\gamefeatures\\rpginventory\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\rpginventoryruntime\\definitions.rpginventoryruntime.h",
+            "c:\\project\\p251210\\plugins\\gamefeatures\\rpginventory\\source\\rpginventoryruntime\\public\\actors\\rpginvdrop.h",
+            "c:\\project\\p251210\\plugins\\gamefeatures\\rpginventory\\intermediate\\build\\win64\\unrealeditor\\inc\\rpginventoryruntime\\uht\\rpginvdrop.generated.h",
+            "c:\\project\\p251210\\plugins\\gamefeatures\\rpginventory\\source\\rpginventoryruntime\\public\\inv\\rpginvchestcomp.h",
+            "c:\\project\\p251210\\plugins\\gamefeatures\\rpginventory\\source\\rpginventoryruntime\\public\\inv\\rpginvcomp.h",
+            "c:\\project\\p251210\\plugins\\gamefeatures\\rpginventory\\source\\rpginventoryruntime\\public\\inv\\rpginvtypes.h",
+            "c:\\program files\\ue_5.7\\engine\\source\\runtime\\net\\core\\classes\\net\\serialization\\fastarrayserializer.h",
+            "c:\\program files\\ue_5.7\\engine\\source\\runtime\\net\\core\\public\\net\\core\\misc\\guidreferences.h",
+            "c:\\program files\\ue_5.7\\engine\\source\\runtime\\net\\core\\public\\net\\core\\pushmodel\\pushmodel.h",
+            "c:\\program files\\ue_5.7\\engine\\source\\runtime\\net\\core\\public\\net\\core\\netcoremodule.h",
+            "c:\\program files\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\netcore\\uht\\fastarrayserializer.generated.h",
+            "c:\\project\\p251210\\plugins\\gamefeatures\\rpginventory\\intermediate\\build\\win64\\unrealeditor\\inc\\rpginventoryruntime\\uht\\rpginvtypes.generated.h",
+            "c:\\project\\p251210\\plugins\\gamefeatures\\rpginventory\\intermediate\\build\\win64\\unrealeditor\\inc\\rpginventoryruntime\\uht\\rpginvcomp.generated.h",
+            "c:\\project\\p251210\\plugins\\gamefeatures\\rpginventory\\intermediate\\build\\win64\\unrealeditor\\inc\\rpginventoryruntime\\uht\\rpginvchestcomp.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
