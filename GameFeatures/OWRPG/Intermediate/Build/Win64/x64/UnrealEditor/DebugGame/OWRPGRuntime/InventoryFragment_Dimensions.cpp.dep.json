@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\project\\p251210\\plugins\\gamefeatures\\owrpg\\source\\owrpgruntime\\private\\inventory\\inventoryfragment_dimensions.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\project\\p251210\\intermediate\\build\\win64\\x64\\lyraeditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\project\\p251210\\plugins\\gamefeatures\\owrpg\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\owrpgruntime\\definitions.owrpgruntime.h",
+            "c:\\project\\p251210\\plugins\\gamefeatures\\owrpg\\source\\owrpgruntime\\public\\inventory\\inventoryfragment_dimensions.h",
+            "c:\\project\\p251210\\source\\lyragame\\inventory\\lyrainventoryitemdefinition.h",
+            "c:\\project\\p251210\\intermediate\\build\\win64\\unrealeditor\\inc\\lyragame\\uht\\lyrainventoryitemdefinition.generated.h",
+            "c:\\project\\p251210\\plugins\\gamefeatures\\owrpg\\intermediate\\build\\win64\\unrealeditor\\inc\\owrpgruntime\\uht\\inventoryfragment_dimensions.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

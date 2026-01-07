@@ -1,0 +1,29 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OWRPGRuntime.cpp.obj": [
+			"GameFeatureAction_Initialize.gen.cpp.obj",
+			"GFA_GrantAbilities.gen.cpp.obj",
+			"OWRPGDeathEventBlueprintLibrary.gen.cpp.obj",
+			"OWRPGDeveloperSettings.gen.cpp.obj",
+			"OWRPGGameSubsystem.gen.cpp.obj",
+			"OWRPGRuntime.init.gen.cpp.obj",
+			"OWRPGWorldSubsystem.gen.cpp.obj",
+			"RPGFeatureMgr.gen.cpp.obj",
+			"RPGPawnComp.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"RPGPawnComp.cpp.obj",
+			"OWRPGFeature.cpp.obj",
+			"GameFeatureAction_Initialize.cpp.obj",
+			"GFA_GrantAbilities.cpp.obj",
+			"OWRPGDeathEventBlueprintLibrary.cpp.obj",
+			"OWRPGGameplayTags.cpp.obj",
+			"OWRPGLogChannels.cpp.obj",
+			"OWRPGRuntimeModule.cpp.obj",
+			"RPGFeatureMgr.cpp.obj",
+			"OWRPGDeveloperSettings.cpp.obj",
+			"OWRPGGameSubsystem.cpp.obj",
+			"OWRPGWorldSubsystem.cpp.obj"
+		]
+	}
+}

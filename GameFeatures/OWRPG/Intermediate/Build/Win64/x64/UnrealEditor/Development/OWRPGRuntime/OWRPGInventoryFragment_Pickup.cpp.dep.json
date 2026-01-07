@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\project\\p251210\\plugins\\gamefeatures\\owrpg\\source\\owrpgruntime\\private\\inventory\\owrpginventoryfragment_pickup.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\project\\p251210\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\project\\p251210\\plugins\\gamefeatures\\owrpg\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\owrpgruntime\\definitions.owrpgruntime.h",
+            "c:\\project\\p251210\\plugins\\gamefeatures\\owrpg\\source\\owrpgruntime\\public\\inventory\\owrpginventoryfragment_pickup.h",
+            "c:\\project\\p251210\\source\\lyragame\\inventory\\lyrainventoryitemdefinition.h",
+            "c:\\project\\p251210\\intermediate\\build\\win64\\unrealeditor\\inc\\lyragame\\uht\\lyrainventoryitemdefinition.generated.h",
+            "c:\\project\\p251210\\plugins\\gamefeatures\\owrpg\\intermediate\\build\\win64\\unrealeditor\\inc\\owrpgruntime\\uht\\owrpginventoryfragment_pickup.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

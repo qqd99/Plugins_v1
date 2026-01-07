@@ -1,0 +1,47 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OWRPGRuntime.cpp.obj": [
+			"GA_InitStats.gen.cpp.obj",
+			"GE_OWRPG_InitStats.gen.cpp.obj",
+			"InventoryFragment_Dimensions.gen.cpp.obj",
+			"OWRPGAbilitySystemLibrary.gen.cpp.obj",
+			"OWRPGInventoryDragDrop.gen.cpp.obj",
+			"OWRPGInventoryFragment_CoreStats.gen.cpp.obj",
+			"OWRPGInventoryFragment_Pickup.gen.cpp.obj",
+			"OWRPGInventoryFragment_Traits.gen.cpp.obj",
+			"OWRPGInventoryFragment_UI.gen.cpp.obj",
+			"OWRPGInventoryFunctionLibrary.gen.cpp.obj",
+			"OWRPGInventoryGridWidget.gen.cpp.obj",
+			"OWRPGInventoryItemWidget.gen.cpp.obj",
+			"OWRPGInventoryManagerComponent.gen.cpp.obj",
+			"OWRPGRuntime.init.gen.cpp.obj",
+			"OWRPGVisualItemActor.gen.cpp.obj",
+			"OWRPGWorldCollectable.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"GA_InitStats.cpp.obj",
+			"OWRPGBaseStatSet.cpp.obj",
+			"OWRPGManaSet.cpp.obj",
+			"OWRPGStaminaSet.cpp.obj",
+			"GE_OWRPG_InitStats.cpp.obj",
+			"OWRPGAbilitySystemLibrary.cpp.obj",
+			"OWRPGVisualItemActor.cpp.obj",
+			"GA_World_Collect.cpp.obj",
+			"OWRPGWorldCollectable.cpp.obj",
+			"GA_DropItem.cpp.obj",
+			"GA_EquipItem.cpp.obj",
+			"InventoryFragment_Dimensions.cpp.obj",
+			"OWRPGInventoryFragment_CoreStats.cpp.obj",
+			"OWRPGInventoryFragment_Pickup.cpp.obj",
+			"OWRPGInventoryFragment_Traits.cpp.obj",
+			"OWRPGInventoryFragment_UI.cpp.obj",
+			"OWRPGInventoryFunctionLibrary.cpp.obj",
+			"OWRPGInventoryManagerComponent.cpp.obj",
+			"OWRPGRuntimeModule.cpp.obj",
+			"OWRPGGameplayTags.cpp.obj",
+			"OWRPGInventoryDragDrop.cpp.obj",
+			"OWRPGInventoryGridWidget.cpp.obj",
+			"OWRPGInventoryItemWidget.cpp.obj"
+		]
+	}
+}

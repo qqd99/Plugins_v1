@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\project\\p251210\\plugins\\gamefeatures\\owrpg\\source\\owrpgruntime\\private\\inventory\\owrpginventoryfragment_traits.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\project\\p251210\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\project\\p251210\\plugins\\gamefeatures\\owrpg\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\owrpgruntime\\definitions.owrpgruntime.h",
+            "c:\\project\\p251210\\plugins\\gamefeatures\\owrpg\\source\\owrpgruntime\\public\\inventory\\owrpginventoryfragment_traits.h",
+            "c:\\project\\p251210\\source\\lyragame\\inventory\\lyrainventoryitemdefinition.h",
+            "c:\\project\\p251210\\intermediate\\build\\win64\\unrealeditor\\inc\\lyragame\\uht\\lyrainventoryitemdefinition.generated.h",
+            "c:\\program files\\ue_5.7\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "c:\\program files\\ue_5.7\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "c:\\program files\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "c:\\project\\p251210\\plugins\\gamefeatures\\owrpg\\intermediate\\build\\win64\\unrealeditor\\inc\\owrpgruntime\\uht\\owrpginventoryfragment_traits.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

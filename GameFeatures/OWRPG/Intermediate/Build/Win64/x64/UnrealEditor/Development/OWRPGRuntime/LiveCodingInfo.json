@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OWRPGRuntime.cpp.obj": [
+			"GA_InitStats.gen.cpp.obj",
+			"GE_OWRPG_InitStats.gen.cpp.obj",
+			"OWRPGAbilitySystemLibrary.gen.cpp.obj",
+			"OWRPGRuntime.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"GA_InitStats.cpp.obj",
+			"OWRPGBaseStatSet.cpp.obj",
+			"OWRPGManaSet.cpp.obj",
+			"OWRPGStaminaSet.cpp.obj",
+			"GE_OWRPG_InitStats.cpp.obj",
+			"OWRPGAbilitySystemLibrary.cpp.obj",
+			"OWRPGRuntimeModule.cpp.obj",
+			"OWRPGGameplayTags.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\project\\p251210\\plugins\\gamefeatures\\owrpg\\source\\owrpgruntime\\private\\features\\owrpgfeature.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\project\\p251210\\intermediate\\build\\win64\\x64\\lyraeditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\project\\p251210\\plugins\\gamefeatures\\owrpg\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\owrpgruntime\\definitions.owrpgruntime.h",
+            "c:\\project\\p251210\\plugins\\gamefeatures\\owrpg\\source\\owrpgruntime\\public\\features\\owrpgfeature.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

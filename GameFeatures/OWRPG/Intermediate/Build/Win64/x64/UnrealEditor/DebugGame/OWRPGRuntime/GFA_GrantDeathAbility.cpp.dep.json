@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\project\\p251210\\plugins\\gamefeatures\\owrpg\\source\\owrpgruntime\\private\\gamefeatures\\gfa_grantdeathability.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\project\\p251210\\intermediate\\build\\win64\\x64\\lyraeditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\project\\p251210\\plugins\\gamefeatures\\owrpg\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\owrpgruntime\\definitions.owrpgruntime.h",
+            "c:\\project\\p251210\\plugins\\gamefeatures\\owrpg\\source\\owrpgruntime\\public\\gamefeatures\\gfa_grantdeathability.h",
+            "c:\\program files\\ue_5.7\\engine\\plugins\\runtime\\gamefeatures\\source\\gamefeatures\\public\\gamefeatureaction.h",
+            "c:\\program files\\ue_5.7\\engine\\plugins\\runtime\\gamefeatures\\intermediate\\build\\win64\\unrealeditor\\inc\\gamefeatures\\uht\\gamefeatureaction.generated.h",
+            "c:\\project\\p251210\\plugins\\gamefeatures\\owrpg\\intermediate\\build\\win64\\unrealeditor\\inc\\owrpgruntime\\uht\\gfa_grantdeathability.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
